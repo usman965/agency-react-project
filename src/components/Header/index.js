@@ -231,6 +231,7 @@ const Header = () => {
     }
   }, []);
 
+
   return (
     <Headers ref={ref}>
       <Logo>
